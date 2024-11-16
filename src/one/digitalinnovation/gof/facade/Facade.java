@@ -12,3 +12,4 @@ public class Facade {
 		CrmService.gravarCliente(nome, cep, cidade, estado);
 	}
 }
+//facede//
